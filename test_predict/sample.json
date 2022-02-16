@@ -1,0 +1,20 @@
+{
+    "room": 6,
+    "age": 3,
+    "direction": 1,
+    "structure": 2,
+    "area": 3,
+    "floor": 1,
+    "top": 0,
+    "walktime": 4,
+    "kichen": 1,
+    "internet": 1,
+    "parking": 0,
+    "toilet": 1,
+    "dryer": 1,
+    "airconditioning": 1,
+    "laundry": 1,
+    "latitude": 35.729503,
+    "longitude": 139.7109,
+    "landprice": 629300
+}
